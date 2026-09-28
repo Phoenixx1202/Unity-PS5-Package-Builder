@@ -1,0 +1,28 @@
+{
+  "ageLevel": {
+    "US": 0,
+    "default": 0
+  },
+  "applicationCategoryType": 0,
+  "applicationDrmType": "standard",
+  "attribute": 536870912,
+  "attribute2": 0,
+  "attribute3": 4,
+  "contentId": "UP0000-PPSA99999_00-MYGAMEEXAMPLE000",
+  "contentVersion": "01.000.000",
+  "downloadDataSize": 0,
+  "localizedParameters": {
+    "defaultLanguage": "en-US",
+    "en-US": {
+      "titleName": "My Game"
+    }
+  },
+  "masterVersion": "01.00",
+  "titleId": "PPSA99999",
+  "conceptId" : "99999", 
+  "contentBadgeType" : 1,   
+  "userDefinedParam1": 0,
+  "userDefinedParam2": 0,
+  "userDefinedParam3": 0,
+  "userDefinedParam4": 0
+}
