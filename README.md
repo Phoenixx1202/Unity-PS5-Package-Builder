@@ -77,6 +77,8 @@ The title ID must be `PPSA` followed by five digits. The content ID must use the
 3. Disable **Development Build**.
 4. Add at least one scene to **Scenes In Build**, or save the active scene.
 5. Select **PS5 > 3. Full Build (Player + PKG)**.
+<img width="657" height="137" alt="image" src="https://github.com/user-attachments/assets/80807b37-fc6c-4185-973e-4e2c2506186e" />
+
 
 Unity always writes the player into a clean `build/Build/` directory. Before each build, only that generated directory is deleted and recreated. The precompiled builder writes the PKG separately under `build/Build-pkg/`.
 
