@@ -87,3 +87,5 @@ Never select the `build/` root as the Unity PS5 build folder. It may contain `Bu
 ## Create a PKG from an existing Unity player
 
 Build the Unity player into `build/Build`, then run `build_Pkg.bat` from the project root. No source compilation occurs.
+
+Credits to Drakmor and SvenGDK.
